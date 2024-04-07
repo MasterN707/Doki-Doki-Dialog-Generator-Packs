@@ -1,4 +1,5 @@
 {
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
 	"pack": {
 		"id": "mc.oufits.red_hoodie.tomas_of_mystery.edave64",
 		"name": "Red hoodie",

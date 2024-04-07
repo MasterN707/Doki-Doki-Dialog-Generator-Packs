@@ -1,4 +1,5 @@
 {
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
 	"pack": {
 		"id": "sayori.pose.unrolled_sleaves.macey_connur.edave64",
 		"name": "Casual with unrolled sleaves",

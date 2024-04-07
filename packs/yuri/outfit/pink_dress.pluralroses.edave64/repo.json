@@ -1,4 +1,5 @@
 {
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
 	"pack": {
 		"id": "yuri.outfit.pink_dress.pluralroses.edave64",
 		"name": "Pink Dress",

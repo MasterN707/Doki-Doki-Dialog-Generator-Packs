@@ -1,4 +1,5 @@
 {
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
 	"pack": {
 		"id": "natsuki.expressions.base.lunatic_rabbit.edave64",
 		"name": "Extra expressions",

@@ -1,4 +1,5 @@
 {
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
 	"pack": {
 		"id": "monika.outfit.traditional.stefano_chr.edave64",
 		"name": "Traditional Outfit",
